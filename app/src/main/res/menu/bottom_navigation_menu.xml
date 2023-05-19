@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Lessons"
+        android:enabled="true"
+        android:icon="@drawable/baseline_calendar_today_24"
+        android:title="@string/lessons_menu_item"/>
+    <item
+        android:id="@+id/Requests"
+        android:enabled="true"
+        android:icon="@drawable/baseline_library_add_check_24"
+        android:title="@string/requests_menu_item"/>
+    <item
+        android:id="@+id/Add"
+        android:enabled="true"
+        android:icon="@drawable/baseline_add_circle_outline_24"
+        android:title="@string/add_menu_item"/>
+    <item
+        android:id="@+id/Chat"
+        android:enabled="true"
+        android:icon="@drawable/baseline_chat_bubble_24"
+        android:title="@string/chat_menu_item"/>
+    <item
+        android:id="@+id/More"
+        android:enabled="true"
+        android:icon="@drawable/baseline_more_horiz_24"
+        android:title="@string/more_menu_item"/>
+</menu>

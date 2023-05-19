@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fitness Kit</string>
+    <string name="lessons_menu_item">Занятия</string>
+    <string name="requests_menu_item">Заявки</string>
+    <string name="add_menu_item">Добавить</string>
+    <string name="more_menu_item">Ещё</string>
+    <string name="chat_menu_item">Чат</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_message">Ошибка, попробуйте еще раз.</string>
+</resources>
